@@ -16,4 +16,5 @@ spring:
 server:
   servlet:
     context-path: /world
+  port: 9090
 

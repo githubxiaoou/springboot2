@@ -1,10 +1,7 @@
 package com.atguigu.boot.controller;
 
 
-import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
-
-import javax.servlet.http.HttpSession;
 
 
 @RestController
